@@ -81,7 +81,8 @@ OUTPUT WAVEFORM
 <img width="1918" height="1132" alt="Screenshot 2025-09-01 092530" src="https://github.com/user-attachments/assets/07fa2b4e-0592-4c9b-817b-55d823035765" />
 
 TABULATION
-![ac_emp_3](https://github.com/user-attachments/assets/c5d351e2-a3e8-4627-a99c-86aeeafc1e78)
+![ac_exp3](https://github.com/user-attachments/assets/a7103164-0eee-4cb6-9af0-3b960577b981)
+
 RESULT:
 
 Thus, the SSB-SC-AM Modulation and Demodulation is experimentally done and the output is verified.
